@@ -1,0 +1,11 @@
+click
+requests
+beautifulsoup4
+PyPDF2
+pdfplumber
+pytesseract
+Pillow
+fake-useragent
+PyMuPDF
+PyYAML
+pyfiglet
